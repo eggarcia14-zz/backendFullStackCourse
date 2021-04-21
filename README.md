@@ -1,7 +1,7 @@
 # backendFullStackCourse
 
-#Descargar modulos:
+# Descargar modulos:
 npm instal
 
-#Levantar servidor:
+# Levantar servidor:
 npm start 
